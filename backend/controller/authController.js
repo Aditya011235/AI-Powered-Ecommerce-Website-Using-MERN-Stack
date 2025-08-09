@@ -1,4 +1,4 @@
-import User from "../model/userModel.js";
+import User from "../model/UserModel.js";
 import validator from "validator"
 import bcrypt from "bcryptjs"
 import { genToken, genToken1 } from "../config/token.js";
